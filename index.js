@@ -15,13 +15,6 @@ function wrapAdjective(val){
     return innerFunction
 }
 
-const fn = function() {
-    console.log("Yet more razzling");
-}
-
-console.log(fn);
-fn()
-
 
 /*
 Implement a function called wrapAdjective:
